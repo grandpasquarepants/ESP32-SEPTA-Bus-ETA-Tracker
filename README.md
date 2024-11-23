@@ -2,6 +2,8 @@
 
 A digital display system that shows real-time arrival predictions for SEPTA buses using an ESP32 microcontroller and a 4-digit 7-segment display. The system alternates between showing the current time and the estimated time of arrival (ETA) for the next bus at your specified stop.
 
+https://imgur.com/a/eY8CiZn
+
 ## Features
 
 - Real-time bus arrival predictions using SEPTA's API
